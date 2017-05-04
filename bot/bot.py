@@ -27,7 +27,7 @@
 
     # Details on the Cisco Spark Account to Use
     export SPARK_BOT_EMAIL=myhero.demo@domain.com
-    export SPARK_BOT_TOKEN=adfiafdadfadfaij12321kaf
+    export SPARK_BOT_TOKEN=NjFmMmJmZGEtY2Q5ZS00YTQ1LWE3N2ItYTY5MDUyZDUwNjA3ZWYyMzI5ZjAtODQy
 
     # Public Address and Name for the Spark Bot Application
     export SPARK_BOT_URL=http://myhero-spark.mantl.domain.com
